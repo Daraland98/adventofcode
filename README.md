@@ -6,7 +6,7 @@ This project contains solutions to the [Advent of Code](https://adventofcode.com
 
 ## 📂 Structure
 
-- **`dayXX/`**: Each folder contains solutions for the respective day.
+- **`yearXXXX/dayXX`**: Each folder contains solutions for the respective day.
 - **Input files**: Provided by Advent of Code for each challenge.
 - **Python scripts**: Solve the puzzles and include comments for clarity.
 
